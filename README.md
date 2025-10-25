@@ -1,4 +1,4 @@
-# Platformio Teensy Code for AgileX Emergency Stop Button
+# Platformio Teensy Code for AgileX Piper Emergency Stop Button
 
 ## Description
 
